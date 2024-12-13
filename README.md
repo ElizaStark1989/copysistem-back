@@ -21,6 +21,6 @@ Edita el archivo `.env` y asegúrate de proporcionar los valores adecuados para 
 DATABASE_URL=
 JWT_SECRET=
 ```
-*DATABASE_URL:* URL de conexión a la base de datos.
+**DATABASE_URL:** URL de conexión a la base de datos.
 
-*JWT_SECRET:* Clave secreta utilizada para generar y validar JSON Web Tokens (JWT).
+**JWT_SECRET:** Clave secreta utilizada para generar y validar JSON Web Tokens (JWT).
